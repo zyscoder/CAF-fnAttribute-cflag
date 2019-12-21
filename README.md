@@ -22,7 +22,9 @@
 - 实现功能：给clang和llvm增加一个‘cafapi’的function attribute，可用以在源码标识目标函数，方便在ir pass中进行识别和处理。
 
  # 实现环境：
-    - llvm7.1.0: 本patch适用于llvm7.1.0版本，不保证其他版本的适用性
+ 
+- llvm7.1.0: 本patch适用于llvm7.1.0版本，不保证其他版本的适用性
 
 # patch使用方法：
-   - git apply /path/to/patchname
+
+- git apply /path/to/patchname
