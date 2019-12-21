@@ -28,3 +28,4 @@
 # patch使用方法：
 
 - git apply /path/to/patchname
+- Apply add-fcaf-keep-cxxctors-and-cafcxxctor-function-attribute.patch first，then apply add-cafapi-function-attribute.patch
